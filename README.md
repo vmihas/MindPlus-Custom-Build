@@ -38,7 +38,6 @@
 
 ## 📷 Screenshots
 
-> *(Πρόσθεσε εδώ εικόνες — απλά σύρε στην επεξεργασία του README)*
 
 ```markdown
 ![Neopixel UI](screenshots/neopixel.png)
