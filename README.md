@@ -1,5 +1,9 @@
-# MindPlus-Custom-Build
-A Custom Build of Mind Plus for Primary Education
+# MindPlus Custom Build
+To *MindPlus Custom Build* ένα τροποποιημένο Mind+ το οποίο υποστηρίζει εγγενώς το κιτ ρομποτικής Polytech S1 και σε **ONLINE** mode και σε **OFFLINE**.
+
+Χρησιμοποίηθηκε το πρόσθετο του Αλέξανδρου Μοσκοφίδη το οποίο εμπλουτίσθηκε με νέες δυνατότητες.
+
+Σύντομα θα υποστηρίζεται και το κιτ ρομποτικής Polytech R2
 ### ONLINE & OFFLINE mode
 Υποστηρίζονται όλοι οι αισθητήρες/ενεργοποιητές του κιτ.
 Επιπλέον υποστηρίζεται και ο πομπός και ο δέκτης υπερύθρων. Μπορείτε να χρησιμοποιήσετε το τηλεκοντρόλ που υπάρχει στο R3 κιτ.
@@ -27,3 +31,5 @@ A Custom Build of Mind Plus for Primary Education
 
 Όταν κάποιος εγκαθιστά το Custom Build για πρώτη φορά, θα πρέπει να τρέξει το **_Mind+ Custom Build Full Installer_** (περιέχει και το official Mind+ bundle που απαιτείται),
 ενώ τις υπόλοιπες φορές το **_Mind+ Custom Build Update Installer_** (περιέχει udpates/προσθήκες των πρόσθετων) που είναι πολύ μικρότερο σε μέγεθος και πιο γρήγορο στην εγκατάσταση.
+
+Βαγγέλης Μίχας
