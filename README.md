@@ -1,4 +1,4 @@
-# MindPlus Custom Build
+# Mind+ Custom Build
 
 Το **MindPlus Custom Build** είναι μια τροποποιημένη έκδοση του Mind+  
 η οποία υποστηρίζει εγγενώς το κιτ ρομποτικής **Polytech S1** τόσο σε **ONLINE** όσο και σε **OFFLINE** mode.
