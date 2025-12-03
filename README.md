@@ -36,6 +36,19 @@
 
 ---
 
+## 📥 Installation
+
+Υπάρχουν δύο installers:
+
+- Mind+ Custom Build Full Installer
+  ⭐ Περιέχει το επίσημο Mind+ bundle και όλα τα patches.
+
+- Mind+ Custom Build Update Installer
+  ⭐ Περιέχει μόνο τις ενημερώσεις (μικρό μέγεθος, γρήγορη εγκατάσταση).
+
+🔹 Πρώτη εγκατάσταση: χρησιμοποιήστε το Full Installer
+🔹 Επόμενες ενημερώσεις: χρησιμοποιήστε το Update Installer
+
 ## 📷 Screenshots
 
 
