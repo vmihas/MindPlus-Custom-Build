@@ -1,6 +1,9 @@
-# MindPlus Custom Build
+# Mind+ Custom Build
+![Version](https://img.shields.io/github/v/release/vmihas/mindplus-custom-build)
+![Downloads](https://img.shields.io/github/downloads/vmihas/mindplus-custom-build/total)
+![License](https://img.shields.io/badge/license-GPL-green)
 
-Το **MindPlus Custom Build** είναι μια τροποποιημένη έκδοση του Mind+,  
+Το **Mind+ Custom Build** είναι μια τροποποιημένη έκδοση του Mind+,  
 η οποία υποστηρίζει εγγενώς το κιτ ρομποτικής **Polytech S1** τόσο σε **ONLINE** όσο και σε **OFFLINE** mode.
 
 Χρησιμοποιήθηκε το πρόσθετο του **Αλέξανδρου Μοσκοφίδη**, το οποίο εμπλουτίστηκε με νέες δυνατότητες, UI εργαλεία και επιπλέον λειτουργίες.
@@ -63,6 +66,15 @@
 
 > 🟢 Σε πρώτη εγκατάσταση: χρησιμοποιήστε το **Full Installer**  
 > 🔁 Σε επόμενες ενημερώσεις: χρησιμοποιήστε το **Update Installer**
+
+---
+
+## 🧩 Προσθήκη επέκτασης (Polytech Extension)
+
+Για να προσθέσετε την επέκταση (online & offline) ακολουθήστε τις παρακάτω οδηγίες:
+![Add Extension 1](screenshots/add_extension_1.png)
+
+![Add Extension 2](screenshots/add_extension_2.png)
 
 ---
 
