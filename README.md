@@ -81,7 +81,8 @@
 Μπορείτε να κατεβάσετε ένα **έτοιμο έργο Mind+** το οποίο περιέχει ήδη ενεργοποιημένη την επέκταση **S1** τόσο σε **ONLINE** όσο και σε **OFFLINE** mode από **[εδώ](https://github.com/vmihas/mindplus-custom-build/raw/main/S1.mp)**.  
 Έτσι δεν θα χρειάζεται να ακολουθήσετε τα βήματα χειροκίνητης προσθήκης της επέκτασης.
 
-Επίσης, **ενδεικτικά έργα** χρήσης μπορείτε να κατεβάσετε από **[εδώ](https://github.com/vmihas/mindplus-custom-build/tree/main/examples)** (φάκελος `examples` του repository).
+Επίσης, **ενδεικτικά έργα** χρήσης μπορείτε να κατεβάσετε από **[εδώ](https://github.com/vmihas/mindplus-custom-build/tree/main/examples)** (φάκελος `examples` του repository).  
+Για να κατεβάσετε ένα αρχείο, κάντε **δεξί κλικ → Αποθήκευση συνδέσμου ως…**
 
 ---
 
