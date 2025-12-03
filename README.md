@@ -1,6 +1,6 @@
-# Mind+ Custom Build
+# MindPlus Custom Build
 
-Το **MindPlus Custom Build** είναι μια τροποποιημένη έκδοση του Mind+  
+Το **MindPlus Custom Build** είναι μια τροποποιημένη έκδοση του Mind+,  
 η οποία υποστηρίζει εγγενώς το κιτ ρομποτικής **Polytech S1** τόσο σε **ONLINE** όσο και σε **OFFLINE** mode.
 
 Χρησιμοποιήθηκε το πρόσθετο του **Αλέξανδρου Μοσκοφίδη**, το οποίο εμπλουτίστηκε με νέες δυνατότητες, UI εργαλεία και επιπλέον λειτουργίες.
@@ -9,50 +9,83 @@
 
 ---
 
-## 🚀 ONLINE & OFFLINE Mode
+## 🚀 ONLINE & OFFLINE mode
+
 Υποστηρίζονται όλοι οι αισθητήρες/ενεργοποιητές του κιτ.
-Επιπλέον:
-- Υποστήριξη πομπού και δέκτη υπερύθρων (IR)
-- Λειτουργία τηλεχειρισμού με το τηλεκοντρόλ του R3 kit
+Επιπλέον υποστηρίζεται και ο πομπός και ο δέκτης υπερύθρων.  
+Μπορείτε να χρησιμοποιήσετε το τηλεκοντρόλ που υπάρχει στο R3 κιτ.
 
 ---
 
-## 🧩 Βελτιώσεις & Νέα Χαρακτηριστικά
+## 🧩 Βελτιώσεις
 
-### ✨ UI / UX Enhancements
-- 🎹 **Πιανάκι** για τις νότες στο buzzer
-- 🕹️ **Γραφικό τηλεχειριστήριο** (custom για το Polytech kit)
-- 🎨 **Παλέτα χρώματος** για επιλογή RGB Neopixel
+Γίνεται χρήση όμορφων UI widgets όπως:
 
-### ⚙️ Hardware
-- Χρήση ενσωματωμένης βιβλιοθήκης **DF_Robot Neopixel**
-- Ο κινητήρας μπορεί να συνδεθεί και στο **SPI port**
-- Τα blocks είναι οργανωμένα σε κατηγορίες για ευκολότερη εύρεση
+> 🎹 **Πιανάκι** για τις νότες στο buzzer  
+> 🕹️ **Γραφικό τηλεχειριστήριο** για τα blocks υπερύθρων (customized ειδικά για το Polytech kit)  
+> 🎨 **Παλέτα χρώματος** για την επιλογή χρώματος των RGB Neopixel
 
-### 🛠️ System
-- Απενεργοποιήθηκε ο έλεγχος ενημερώσεων & popup window
-- Προεπιλεγμένη γλώσσα μετά την εγκατάσταση: **Ελληνικά**
-- Διάφορες μικροβελτιώσεις σε blocks & λειτουργίες
+---
+
+### 💡 Hardware & Blocks
+
+- Για τα **Neopixel** χρησιμοποιείται η ενσωματωμένη βιβλιοθήκη της DF_Robot  
+- Ο κινητήρας μπορεί πλέον να συνδεθεί και στο **SPI port**  
+- Τα blocks είναι οργανωμένα σε κατηγορίες για εύκολη εύρεση  
+
+---
+
+### 🛠️ System Improvements
+
+- Απενεργοποιήθηκε ο έλεγχος ενημερώσεων και το αντίστοιχο popup window  
+- Σε νέα εγκατάσταση η προεπιλεγμένη γλώσσα είναι τα **Ελληνικά**  
+- Διάφορες άλλες μικροβελτιώσεις σε blocks & λειτουργίες
 
 ---
 
 ## 📥 Installation
 
-Υπάρχουν δύο installers:
+Υλοποιήθηκαν δύο installers:
 
-- Mind+ Custom Build Full Installer
-  ⭐ Περιέχει το επίσημο Mind+ bundle και όλα τα patches.
+### ⭐ Mind+ Custom Build Full Installer  
+Περιέχει το official Mind+ bundle που απαιτείται και όλα τα patches.
 
-- Mind+ Custom Build Update Installer
-  ⭐ Περιέχει μόνο τις ενημερώσεις (μικρό μέγεθος, γρήγορη εγκατάσταση).
+### ⭐ Mind+ Custom Build Update Installer  
+Περιέχει μόνο updates / προσθήκες των πρόσθετων (μικρό μέγεθος, γρήγορη εγκατάσταση).
 
-🔹 Πρώτη εγκατάσταση: χρησιμοποιήστε το Full Installer
-🔹 Επόμενες ενημερώσεις: χρησιμοποιήστε το Update Installer
+> 🟢 Σε πρώτη εγκατάσταση: χρησιμοποιήστε το **Full Installer**  
+> 🔁 Σε επόμενες ενημερώσεις: χρησιμοποιήστε το **Update Installer**
 
-## 📷 Screenshots
+---
 
+## ✍️ Author
 
-```markdown
-![Neopixel UI](screenshots/neopixel.png)
-![IR Remote](screenshots/remote.png)
-![Piano Block](screenshots/piano.png)
+**Βαγγέλης Μίχας**  
+Mind+ Custom Build & Extensions Development
+
+---
+
+## 📝 Credits
+
+- Πρωτότυπο extension: **Αλέξανδρος Μοσκοφίδης**  
+- Mind+ Platform: **DFRobot**  
+
+---
+
+## ⚖️ License
+
+> **GPLv3**.
+
+---
+
+## ⭐ Support
+
+Για προτάσεις, bugs και νέα χαρακτηριστικά:  
+➡️ Άνοιξε issue στη σελίδα του GitHub repository
+
+---
+
+## 📦 Latest Releases
+
+Κατεβάστε τα installers από την ενότητα **Releases** του GitHub.
+
