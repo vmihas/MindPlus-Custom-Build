@@ -24,6 +24,14 @@
 > 🎹 **Πιανάκι** για τις νότες στο buzzer  
 > 🕹️ **Γραφικό τηλεχειριστήριο** για τα blocks υπερύθρων (customized ειδικά για το Polytech kit)  
 > 🎨 **Παλέτα χρώματος** για την επιλογή χρώματος των RGB Neopixel
+<p align="center">
+  <img src="screenshots/buzzer_piano.png" align="top" width="50%">
+  <img src="screenshots/ir_remote.png" align="top" width="40%">
+</p>
+
+<p align="center">
+  <img src="screenshots/color_pallete.png" width="45%">
+</p>
 
 ---
 
