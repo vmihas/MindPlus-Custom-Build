@@ -82,7 +82,8 @@
 Έτσι δεν θα χρειάζεται να ακολουθήσετε τα βήματα χειροκίνητης προσθήκης της επέκτασης.
 
 Επίσης, **ενδεικτικά έργα** χρήσης μπορείτε να κατεβάσετε από **[εδώ](https://github.com/vmihas/mindplus-custom-build/tree/main/examples)** (φάκελος `examples` του repository).  
-Για να κατεβάσετε ένα αρχείο, κάντε **δεξί κλικ → Αποθήκευση συνδέσμου ως…**
+Για να κατεβάσετε ένα αρχείο, κάντε κλικ στο αρχείο και μετά πατήστε το εικονίδιο 
+<img src="https://github.com/primer/octicons/blob/main/icons/download-16.svg" width="16" style="vertical-align:middle;">.
 
 ---
 
