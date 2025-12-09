@@ -10,7 +10,7 @@
 
 <img src="screenshots/neopixel-palette.png" width="55%">
 
-📁 Kατεβάστε το έργο από [εδώ](examples/neopixel-palette.mp)
+📁 Kατεβάστε το έργο από [εδώ](https://raw.githubusercontent.com/vmihas/MindPlus-Custom-Build/main/examples/neopixel-palette.mp)
 
 ---
 
@@ -20,6 +20,6 @@
 
 <img src="screenshots/ir-online-demo.png" width="45%">
 
-📁 Kατεβάστε το έργο από [εδώ](examples/ir-online-demo.mp)
+📁 Kατεβάστε το έργο από [εδώ](https://raw.githubusercontent.com/vmihas/MindPlus-Custom-Build/main/examples/ir-online-demo.mp)
 
 ---
