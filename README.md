@@ -83,8 +83,8 @@
 )**.  
 Έτσι δεν θα χρειάζεται να ακολουθήσετε τα βήματα χειροκίνητης προσθήκης της επέκτασης.
 
-Επίσης, **ενδεικτικά παραδείγματα** χρήσης και λειτουργίας των blocks μπορείτε να δείτε **[εδώ](https://github.com/vmihas/MindPlus-Custom-Build/blob/main/S1-EXAMPLES.md)**  
-και να κατεβάσετε από **[εδώ](https://github.com/vmihas/mindplus-custom-build/tree/main/examples)** (φάκελος `examples` του repository).  
+Επίσης, **ενδεικτικά παραδείγματα** χρήσης και λειτουργίας των blocks μπορείτε να δείτε 📘 **[εδώ](https://github.com/vmihas/MindPlus-Custom-Build/blob/main/S1-EXAMPLES.md)**  
+και να κατεβάσετε 📥 από **[εδώ](https://github.com/vmihas/mindplus-custom-build/tree/main/examples)** (φάκελος `examples` του repository).  
 Για να κατεβάσετε ένα αρχείο, κάντε κλικ στο αρχείο και μετά πατήστε το εικονίδιο 
 <img src="https://github.com/primer/octicons/blob/main/icons/download-16.svg" width="16" style="vertical-align:middle;">.
 
