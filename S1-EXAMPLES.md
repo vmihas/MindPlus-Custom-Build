@@ -1,1 +1,25 @@
+# 📘 Παραδείγματα Χρήσης (Examples)
 
+Σε αυτό το αρχείο θα βρείτε παραδείγματα χρήσης και λειτουργίας των blocks του πρόσθετου S1.
+
+---
+
+## 🌈 Neopixel – Ορισμός χρώματος από παλέτα
+
+Παράδειγμα χρήσης του block **Neopixel Led … με χρώμα και φωτεινότητα**.
+
+<img src="screenshots/neopixel-palette.png" width="55%">
+
+📁 Kατεβάστε το έργο από [εδώ](examples/neopixel-palette.mp)
+
+---
+
+## 📡 IR Remote – Ανίχνευση κουμπιών (online mode)
+
+Παράδειγμα χρήσης του block **IR δέκτης … ανίχνευσε κουμπί** με πολλαπλά πλήκτρα του τηλεχειριστηρίου σε online mode.
+
+<img src="screenshots/ir-online-demo.png" width="45%">
+
+📁 Kατεβάστε το έργο από [εδώ](examples/ir-online-demo.mp)
+
+---
