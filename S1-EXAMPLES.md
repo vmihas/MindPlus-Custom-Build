@@ -4,6 +4,22 @@
 
 ---
 
+## 🌈 Neopixel – Rainbow Effect
+
+### 🔹 Blocking λειτουργία
+
+Το πρόγραμμα περιμένει να ολοκληρωθεί το rainbow effect πριν συνεχίσει.
+
+<img src="screenshots/neopixel-rainbow-blocking.png">
+
+### 🔹 Non-blocking λειτουργία
+
+Το rainbow effect εκτελείται κανονικά χωρίς να μπλοκάρει το υπόλοιπο πρόγραμμα (δεν χρησιμοποιείται `delay()`).
+
+<img src="screenshots/neopixel-rainbow-nonblocking.png">
+
+---
+
 ## 🌈 Neopixel – Ορισμός χρώματος από παλέτα
 
 Παράδειγμα χρήσης του block **Neopixel Led … με χρώμα και φωτεινότητα**.
