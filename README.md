@@ -2,6 +2,8 @@
 ![Version](https://img.shields.io/github/v/release/vmihas/mindplus-custom-build)
 ![Downloads](https://img.shields.io/github/downloads/vmihas/mindplus-custom-build/total)
 ![License](https://img.shields.io/badge/license-GPL-green)
+![Windows](https://img.shields.io/badge/Windows-x86%20%2F%20x64-blue?logo=windows)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Debian-orange?logo=linux)
 
 Το **Mind+ Custom Build** είναι μια τροποποιημένη έκδοση του Mind+,  
 η οποία υποστηρίζει εγγενώς το κιτ ρομποτικής **Polytech S1** τόσο σε **ONLINE** όσο και σε **OFFLINE** mode.
