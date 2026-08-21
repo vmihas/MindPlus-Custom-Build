@@ -16,7 +16,7 @@
 
 ## 🚧 Ακολούθηση Γραμμής με στάση σε Εμπόδιο (Line Patrol + Ultrasonic + Rainbow)
 
-Παράδειγμα σε **offline mode**, όπου το ρομπότ ακολουθεί τη μαύρη γραμμή και σταματά όταν εντοπίσει εμπόδιο μπροστά του, ενώ τα NeoPixel LEDs τρέχουν συνεχώς το **rainbow effect**.
+Παράδειγμα σε **offline mode**, όπου το ρομπότ ακολουθεί τη μαύρη γραμμή ενώ τα NeoPixel LEDs τρέχουν συνεχώς το **rainbow effect** και σταματά όταν εντοπίσει εμπόδιο μπροστά του.
 
 <img src="screenshots/r2-line_tracking_ultrasonic_stop.png">
 
