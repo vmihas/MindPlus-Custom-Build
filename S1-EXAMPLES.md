@@ -1,4 +1,4 @@
-# 📘 Παραδείγματα Χρήσης (Examples)
+# 📘 Παραδείγματα Χρήσης block S1 (S1-Examples)
 
 Σε αυτό το αρχείο θα βρείτε παραδείγματα χρήσης και λειτουργίας των blocks του πρόσθετου S1.
 
@@ -6,17 +6,11 @@
 
 ## 🌈 Neopixel – Rainbow Effect
 
-### 🔹 Blocking λειτουργία
+Παράδειγμα χρήσης του μπλοκ rainbow effect.
 
-Το πρόγραμμα περιμένει να ολοκληρωθεί το rainbow effect πριν συνεχίσει.
+<img src="screenshots/s1-neopixel-rainbow.png">
 
-<img src="screenshots/neopixel-rainbow-blocking.png">
-
-### 🔹 Non-blocking λειτουργία
-
-Το rainbow effect εκτελείται κανονικά χωρίς να μπλοκάρει το υπόλοιπο πρόγραμμα (δεν χρησιμοποιείται `delay()`).
-
-<img src="screenshots/neopixel-rainbow-nonblocking.png">
+📁 Kατεβάστε το έργο από [εδώ](https://raw.githubusercontent.com/vmihas/MindPlus-Custom-Build/main/examples/s1-neopixel-rainbow.mp)
 
 ---
 
