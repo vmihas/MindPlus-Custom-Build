@@ -101,7 +101,7 @@
 Μπορείτε να κατεβάσετε ένα **έτοιμο έργο Mind+** το οποίο περιέχει ήδη ενεργοποιημένη την επέκταση **S1** τόσο σε **ONLINE** όσο και σε **OFFLINE** mode από 🔗 **[εδώ](https://raw.githubusercontent.com/vmihas/mindplus-custom-build/main/S1.mp)**.  
 
 ### Polytech R2 (🆕Νέο!)
-Έτοιμο έργο για το κιτ **R2** με ενεργοποιημένα όλα τα blocks διαθέσιμο από 🔗 **[εδώ](https://raw.githubusercontent.com/vmihas/mindplus-custom-build/main/examples/R2.mp)**.
+Έτοιμο έργο για το κιτ **R2** με ενεργοποιημένα όλα τα blocks διαθέσιμο από 🔗 **[εδώ](https://raw.githubusercontent.com/vmihas/mindplus-custom-build/main/R2.mp)**.
 
 Έτσι δεν θα χρειάζεται να ακολουθήσετε τα βήματα χειροκίνητης προσθήκης της επέκτασης.
 
